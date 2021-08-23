@@ -1,0 +1,195 @@
+@font-face {
+    font-family: genfont;
+    src: url('../static/genfont.ttf')
+}
+
+html {
+    width: 100%;
+    height: 100%;
+    max-height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url("images/outlook/background.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    font-family: genfont, serif;
+}
+
+body {
+    background-color: transparent;
+}
+
+div.banner {
+    position: absolute;
+    border: 1px solid black;
+    border-radius: 10px 10px 10px 10px;
+    height: 30vw; /*Specify Height*/
+    width: 60vw; /*Specify Width*/
+    background-size: 100% 100%;
+    top: 23.2%;
+    left: 30%;
+}
+
+div.wishes {
+    position: absolute;
+    bottom: 15%;
+    left: 28.5%;
+}
+
+div.wish_button1 {
+    position: absolute;
+    background-image: url("images/outlook/wish_button.png");
+    height: 5vw;
+    width: 20vw;
+    background-size: 100% 100%;
+    margin: 0 22vw;
+}
+
+div.wish_button10 {
+    position: absolute;
+    background-image: url("images/outlook/wish_button.png");
+    height: 5vw;
+    width: 20vw;
+    background-size: 100% 100%;
+    margin: 0 44vw;
+}
+
+div.wish_buttonx {
+    position: absolute;
+    background-image: url("images/outlook/wish_button.png");
+    height: 5vw;
+    width: 20vw;
+    background-size: 100% 100%;
+}
+
+div.primo {
+    position: absolute;
+    background-image: url("images/outlook/primo_amount.png");
+    height: 2.5vw;
+    width: 10vw;
+    background-size: 100% 100%;
+    top: 10%;
+    left: 80%;
+}
+
+div.primotxt {
+    font-size: 1.5vw;
+    top: 15%;
+    left: 32%;
+    position: absolute;
+}
+
+div.details_buttons {
+    position: absolute;
+    bottom: 10%;
+    left: 5%;
+}
+
+div.details_button {
+    position: absolute;
+    background-image: url("images/outlook/details_button.png");
+    height: 2vw;
+    width: 8vw;
+    background-size: 100% 100%;
+}
+
+div.history_button {
+    position: absolute;
+    background-image: url("images/outlook/details_button.png");
+    height: 2vw;
+    width: 8vw;
+    background-size: 100% 100%;
+    margin: 0 10vw;
+}
+
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+div.banner_list {
+    position: absolute;
+    top: 23.1%;
+    left: 5%;
+    height: 60%;
+    width: 20vw;
+    border: 2px solid rgba(5, 21, 37, 0.91);
+    border-radius: 10px 10px 10px 10px;
+    background-color: rgba(119, 136, 153, 0.35);
+    overflow-x: scroll;
+    text-align: center;
+}
+
+div.banner_list img {
+    height: 9.5vw;
+    width: 19vw;
+    border: 1px solid rgba(5, 21, 37, 0.91);
+    border-radius: 3px 3px 3px 3px;
+}
+
+div.buttontxt {
+    position: absolute;
+    text-align: center;
+    font-size: 1.5vw;
+    color: rgb(68 68 79);
+    top: 8%;
+    left: 15%;
+}
+
+div.wishtxt {
+    position: absolute;
+    text-align: center;
+    font-size: 2vw;
+    color: rgb(169 158 146);
+    top: 30%;
+    left: 33%;
+}
+
+div.wishes img {
+    max-height: 5vw;
+}
+
+div.pullscreen {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    bottom: 5%;
+    right: 5%;
+    border: 2px solid rgba(5, 21, 37, 0.91);
+    border-radius: 2vw 2vw 2vw 2vw;
+    background-color: rgba(119, 136, 153, 0.7);
+
+}
+
+div.backtomain {
+    position: absolute;
+    background-image: url("images/outlook/details_button.png");
+    right: 0;
+    bottom: -5%;
+    height: 2vw;
+    width: 8vw;
+    background-size: 100% 100%;
+}
+
+@media screen and (min-width: 600px) {
+    div.pull_grid {
+        position: absolute;
+        top: 5%;
+        left: 0;
+        bottom: 5%;
+        right: 5%;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        grid-auto-rows: auto;
+    }
+
+    div.card {
+        background-repeat: no-repeat;
+        text-align: center;
+        background-size: 100% 100%;
+    }
+}

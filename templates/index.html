@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../static/index.css">
+    <title>Wish Simulator</title>
+    <link rel="shortcut icon" href="../static/images/outlook/favicon.png">
+    <style>
+        div.banner {
+            background-image: url("../static/images/banners/character/{{active_banner}}");
+        }
+
+        div.main {
+            visibility: {{mainvis}};
+        }
+
+        div.pullscreen {
+            visibility: {{pullscreenvis}};
+        }
+
+
+    </style>
+</head>
+<body onload="">
+<div class="pullscreen">
+    <a href="/{{ banner }}"><div class="backtomain"><div class="buttontxt">Return</div></div></a>
+    <div class="pull_grid">
+        {% for pull in pulls %}
+            <div class="card" style="background-image: url('../static/images/characters/{{ pull[0].replace("'", "") }}.png')">{{ pull[0].replace("_", " ") }}</div>
+        {% endfor %}
+    </div>
+</div>
+<div class="main">
+    <a class="photo" href="#" title="banner" id="banner">
+        <div class="banner"></div>
+    </a>
+
+    <div class="wishes">
+        <a class="photo" href="/pull=" title="pullx" id="pullx">
+            <div class="wish_buttonx">
+                <div class="wishtxt"> Wish X</div>
+                <img src="../static/images/outlook/favicon.png" alt="">
+            </div>
+        </a>
+        <a class="photo" href="/pull=1" title="pull" id="pull">
+            <div class="wish_button1">
+                <div class="wishtxt">Wish x1</div>
+                <img src="../static/images/outlook/favicon.png" alt="">
+            </div>
+        </a>
+        <a class="photo" href="/pull=10" title="pull10" id="pull10">
+            <div class="wish_button10">
+                <div class="wishtxt">Wish x10</div>
+                <img src="../static/images/outlook/favicon.png" alt="">
+            </div>
+        </a>
+    </div>
+
+    <a class="photo" href="#" title="primo" id="primo">
+        <div class="primo">
+            <div class="primotxt">
+                0
+            </div>
+        </div>
+    </a>
+
+    <div class="buttons">
+        <div class="details_buttons">
+            <a class="photo" href="#" id="details" onclick="">
+                <div class="details_button">
+                    <div class="buttontxt">
+                        Details
+                    </div>
+                </div>
+            </a>
+            <a class="photo" href="#" title="History" id="history">
+                <div class="history_button">
+                    <div class="buttontxt">
+                        History
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <div class="banner_list" id="banner_list">
+        {% for banner in banner_list %}
+            <a href="/{{ banner }}"><img src="../static/images/banners/character/{{ banner }}" alt=""/></a>{% endfor %}
+    </div>
+</div>
+</body>
+<script src="../static/js/index.js"></script>
+</html>

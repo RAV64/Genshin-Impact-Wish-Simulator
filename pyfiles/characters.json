@@ -1,0 +1,1157 @@
+[
+    {
+        "Name": "Albedo",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 5,
+            "Weapon": "Sword",
+            "Vision": "Geo"
+        }
+    },
+    {
+        "Name": "Amber",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 4,
+            "Weapon": "Bow",
+            "Vision": "Pyro"
+        }
+    },
+    {
+        "Name": "Barbara",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 4,
+            "Weapon": "Catalyst",
+            "Vision": "Hydro"
+        }
+    },
+    {
+        "Name": "Beidou",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 4,
+            "Weapon": "Claymore",
+            "Vision": "Electro"
+        }
+    },
+    {
+        "Name": "Bennett",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 4,
+            "Weapon": "Sword",
+            "Vision": "Pyro"
+        }
+    },
+    {
+        "Name": "Chongyun",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 4,
+            "Weapon": "Claymore",
+            "Vision": "Cryo"
+        }
+    },
+    {
+        "Name": "Diluc",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 5,
+            "Weapon": "Claymore",
+            "Vision": "Pyro"
+        }
+    },
+    {
+        "Name": "Diona",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 4,
+            "Weapon": "Bow",
+            "Vision": "Cryo"
+        }
+    },
+    {
+        "Name": "Eula",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 5,
+            "Weapon": "Claymore",
+            "Vision": "Cryo"
+        }
+    },
+    {
+        "Name": "Fischl",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 4,
+            "Weapon": "Bow",
+            "Vision": "Electro"
+        }
+    },
+    {
+        "Name": "Ganyu",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 5,
+            "Weapon": "Bow",
+            "Vision": "Cryo"
+        }
+    },
+    {
+        "Name": "Hu_Tao",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 5,
+            "Weapon": "Polearm",
+            "Vision": "Pyro"
+        }
+    },
+    {
+        "Name": "Jean",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 5,
+            "Weapon": "Sword",
+            "Vision": "Anemo"
+        }
+    },
+    {
+        "Name": "Kaedehara_Kazuha",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 5,
+            "Weapon": "Sword",
+            "Vision": "Anemo"
+        }
+    },
+    {
+        "Name": "Kaeya",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 4,
+            "Weapon": "Sword",
+            "Vision": "Cryo"
+        }
+    },
+    {
+        "Name": "Kamisato_Ayaka",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 5,
+            "Weapon": "Sword",
+            "Vision": "Cryo"
+        }
+    },
+    {
+        "Name": "Keqing",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 5,
+            "Weapon": "Sword",
+            "Vision": "Electro"
+        }
+    },
+    {
+        "Name": "Klee",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 5,
+            "Weapon": "Catalyst",
+            "Vision": "Pyro"
+        }
+    },
+    {
+        "Name": "Lisa",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 4,
+            "Weapon": "Catalyst",
+            "Vision": "Electro"
+        }
+    },
+    {
+        "Name": "Mona",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 5,
+            "Weapon": "Catalyst",
+            "Vision": "Hydro"
+        }
+    },
+    {
+        "Name": "Ningguang",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 4,
+            "Weapon": "Catalyst",
+            "Vision": "Geo"
+        }
+    },
+    {
+        "Name": "Noelle",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 4,
+            "Weapon": "Claymore",
+            "Vision": "Geo"
+        }
+    },
+    {
+        "Name": "Qiqi",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 5,
+            "Weapon": "Sword",
+            "Vision": "Cryo"
+        }
+    },
+    {
+        "Name": "Razor",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 4,
+            "Weapon": "Claymore",
+            "Vision": "Electro"
+        }
+    },
+    {
+        "Name": "Rosaria",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 4,
+            "Weapon": "Polearm",
+            "Vision": "Cryo"
+        }
+    },
+    {
+        "Name": "Sayu",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 4,
+            "Weapon": "Claymore",
+            "Vision": "Anemo"
+        }
+    },
+    {
+        "Name": "Sucrose",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 4,
+            "Weapon": "Catalyst",
+            "Vision": "Anemo"
+        }
+    },
+    {
+        "Name": "Tartaglia",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 5,
+            "Weapon": "Bow",
+            "Vision": "Hydro"
+        }
+    },
+    {
+        "Name": "Venti",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 5,
+            "Weapon": "Bow",
+            "Vision": "Anemo"
+        }
+    },
+    {
+        "Name": "Xiangling",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 4,
+            "Weapon": "Polearm",
+            "Vision": "Pyro"
+        }
+    },
+    {
+        "Name": "Xiao",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 5,
+            "Weapon": "Polearm",
+            "Vision": "Anemo"
+        }
+    },
+    {
+        "Name": "Xingqiu",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 4,
+            "Weapon": "Sword",
+            "Vision": "Hydro"
+        }
+    },
+    {
+        "Name": "Xinyan",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 4,
+            "Weapon": "Claymore",
+            "Vision": "Pyro"
+        }
+    },
+    {
+        "Name": "Yanfei",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 4,
+            "Weapon": "Catalyst",
+            "Vision": "Pyro"
+        }
+    },
+    {
+        "Name": "Yoimiya",
+        "Attributes": {
+            "Type": "Character",
+            "Rarity": 5,
+            "Weapon": "Bow",
+            "Vision": "Pyro"
+        }
+    },
+    {
+        "Name": "The_Unforged",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 5
+        }
+    },
+    {
+        "Name": "Skyward_Harp",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 5
+        }
+    },
+    {
+        "Name": "Aquila_Favonia",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 5
+        }
+    },
+    {
+        "Name": "Skyward_Spine",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 5
+        }
+    },
+    {
+        "Name": "Memory_of_Dust",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 5
+        }
+    },
+    {
+        "Name": "Vortex_Vanquisher",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 5
+        }
+    },
+    {
+        "Name": "Summit_Shaper",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 5
+        }
+    },
+    {
+        "Name": "Skyward_Pride",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 5
+        }
+    },
+    {
+        "Name": "Wolf's_Gravestone",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 5
+        }
+    },
+    {
+        "Name": "Primordial_Jade_Cutter",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 5
+        }
+    },
+    {
+        "Name": "Staff_of_Homa",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 5
+        }
+    },
+    {
+        "Name": "Skyward_Atlas",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 5
+        }
+    },
+    {
+        "Name": "Lost_Prayer_to_the_Sacred_Winds",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 5
+        }
+    },
+    {
+        "Name": "Elegy_for_the_End",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 5
+        }
+    },
+    {
+        "Name": "Freedom-Sworn",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 5
+        }
+    },
+    {
+        "Name": "Amos'_Bow",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 5
+        }
+    },
+    {
+        "Name": "Skyward_Blade",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 5
+        }
+    },
+    {
+        "Name": "Thundering_Pulse",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 5
+        }
+    },
+    {
+        "Name": "Primordial_Jade_Winged-Spear",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 5
+        }
+    },
+    {
+        "Name": "Mistsplitter_Reforged",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 5
+        }
+    },
+    {
+        "Name": "Song_of_Broken_Pines",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 5
+        }
+    },
+    {
+        "Name": "The_Black_Sword",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Blackcliff_Slasher",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Lithic_Spear",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Wine_and_Song",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Blackcliff_Warbow",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "The_Viridescent_Hunt",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Prototype_Rancour",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Deathmatch",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Royal_Longsword",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Sacrificial_Sword",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Serpent_Spine",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "The_Flute",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Alley_Hunter",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Eye_of_Perception",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Lithic_Blade",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Crescent_Pike",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Favonius_Sword",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Windblume_Ode",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Hakushin_Ring",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Katsuragikiri_Nagamasa",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Kitain_Cross_Spear",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Amenoma_Kageuchi",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Hamayumi",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Dodoco_Tales",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Mitternachts_Waltz",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Dragonspine_Spear",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "The_Alley_Flash",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Snow-Tombed_Starsilver",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Festering_Desire",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Frostbearer",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Royal_Spear",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Blackcliff_Longsword",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Sacrificial_Greatsword",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Sword_of_Descension",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Favonius_Lance",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Lion's_Roar",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Iron_Sting",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Predator",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Favonius_Codex",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "The_Widsith",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Solar_Pearl",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Sacrificial_Fragments",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Royal_Grimoire",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Favonius_Greatsword",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Prototype_Archaic",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Rainslasher",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Royal_Greatsword",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "The_Bell",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Whiteblind",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Prototype_Amber",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Mappa_Mare",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Blackcliff_Agate",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Sacrificial_Bow",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Blackcliff_Pole",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Compound_Bow",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Favonius_Warbow",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Royal_Bow",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Prototype_Crescent",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Prototype_Starglitter",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Dragon's_Bane",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Rust",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "The_Stringless",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 4
+        }
+    },
+    {
+        "Name": "Thrilling_Tales_of_Dragon_Slayers",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Ebony_Bow",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Raven_Bow",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Sharpshooter's_Oath",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Slingshot",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Amber_Catalyst",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Emerald_Orb",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Magic_Guide",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Dark_Iron_Sword",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Halberd",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Traveler's_Handy_Sword",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Cool_Steel",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "White_Iron_Greatsword",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "White_Tassel",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Skyrider_Sword",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Messenger",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Black_Tassel",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Recurve_Bow",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Twin_Nephrite",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Fillet_Blade",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Debate_Club",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Skyrider_Greatsword",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Quartz",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Ferrous_Shadow",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Otherworldly_Story",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Harbinger_of_Dawn",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Bloodtainted_Greatsword",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 3
+        }
+    },
+    {
+        "Name": "Old_Merc's_Pal",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 2
+        }
+    },
+    {
+        "Name": "Pocket_Grimoire",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 2
+        }
+    },
+    {
+        "Name": "Silver_Sword",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 2
+        }
+    },
+    {
+        "Name": "Seasoned_Hunter's_Bow",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 2
+        }
+    },
+    {
+        "Name": "Iron_Point",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 2
+        }
+    },
+    {
+        "Name": "Beginner's_Protector",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 1
+        }
+    },
+    {
+        "Name": "Dull_Blade",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 1
+        }
+    },
+    {
+        "Name": "Hunter's_Bow",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 1
+        }
+    },
+    {
+        "Name": "Apprentice's_Notes",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 1
+        }
+    },
+    {
+        "Name": "Waster_Greatsword",
+        "Attributes": {
+            "Type": "Weapon",
+            "Rarity": 1
+        }
+    }
+]
